@@ -1,0 +1,25 @@
+table, th, td {
+    border:1px solid black;
+  }
+#p2{
+    padding-left: 60px;
+}
+h2{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+table{
+    width: 700px;
+}
+fieldset{
+    width: 700px;
+    height: 250px;
+}
+header{
+    background-color: darkgrey;
+    font-size: 46px;
+}
+footer{
+    font-size: 46px;
+    background-color: darkgrey;
+}
